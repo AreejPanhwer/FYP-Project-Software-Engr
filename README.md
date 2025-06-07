@@ -69,19 +69,10 @@ npm start
 cd ml-models
 python predict.py
 
-📌 Methodology
+## 📌 Methodology
 Agile methodology was followed with iterative sprints.
 
 Weekly meetings and feedback sessions guided feature enhancements.
 
 Integrated continuous testing and deployment for quality assurance.
-
-👩‍💻 Developed By
-Areej
-Bachelor’s in Software Engineering
-Specialization: AI/ML, Web Development
-
-📜 License
-This project is for educational and academic purposes only.
-
 For more details or collaboration inquiries, feel free to connect via LinkedIn or email.
