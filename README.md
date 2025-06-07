@@ -1,2 +1,8 @@
-# FYP-Project-Software-Engr
-A web application that uses AI/ML to analyze real-time climate data and predict future trends. Developed with the MERN stack, it features interactive dashboards and graphs for data visualization, following Agile methodology.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
